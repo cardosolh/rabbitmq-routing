@@ -1,0 +1,16 @@
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.exe
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.deps.json
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.json
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.dev.json
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.dll
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.pdb
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csprojAssemblyReference.cache
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfoInputs.cache
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfo.cs
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csproj.CoreCompileInputs.cache
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csproj.CopyComplete
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.dll
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.pdb
+D:\repos\rabbitmq\rabbitmq-routing\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.genruntimeconfig.cache
